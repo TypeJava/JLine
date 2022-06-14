@@ -7,7 +7,7 @@ Step 3: Enjoy!
 
 
 ## Commands ##
-So far we only have ## 1 ## command. And that is:
+## So far we only have command. And that is: 
 ## `print [text]`
 use `-` insted of spaces.
 
