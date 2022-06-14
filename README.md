@@ -6,7 +6,7 @@ Step 2: Go into the `src` folder than run this command ` & 'C:\Program Files\Jav
 Step 3: Enjoy!
 
 
-## Commands##
+## Commands ##
 So far we only have ## 1 ## command. And that is:
 ## `print [text]`
 use `-` insted of spaces.
